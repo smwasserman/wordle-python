@@ -15,9 +15,10 @@ I may make future changes to improve gameplay and performance.
 
 2. Make sure that your terminal supports ANSI escape codes,
 otherwise the colors will not display correctly.
-**The default macOS terminal will not display colors properly.**
+
+### ***The default macOS terminal may not display colors properly!***
 If you're running macOS, I would recommend using the terminal built into your code editor,
-or use something like [iTerm2](https://iterm2.com/) or [Ghostty](https://ghostty.org/).
+or using something like [iTerm2](https://iterm2.com/).
 
 3. Make sure `wordle_main.py` and `dictionary.txt` are in the same directory. Then run the following command:
 ``` bash
